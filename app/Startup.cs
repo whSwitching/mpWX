@@ -9,7 +9,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Http;
 
-namespace app
+namespace mpwx
 {
     public class Startup
     {

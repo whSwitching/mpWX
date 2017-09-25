@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace app.Data
+namespace mpwx.Data
 {
     public class EntityModel : DbContext
     {

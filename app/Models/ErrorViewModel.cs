@@ -1,6 +1,6 @@
 using System;
 
-namespace app.Models
+namespace mpwx.Models
 {
     public class ErrorViewModel
     {
